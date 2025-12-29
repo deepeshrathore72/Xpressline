@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^1.7.18",
+    "@heroicons/react": "^2.1.1",
+    "@mapbox/mapbox-gl-directions": "^4.1.2",
+    "@react-navigation/native": "^6.1.9",
+    "@react-oauth/google": "^0.12.1",
+    "@testing-library/jest-dom": "^6.2.0",
+    "@testing-library/react": "^14.1.2",
+    "@testing-library/user-event": "^14.5.2",
+    "axios": "^1.6.5",
+    "jwt-decode": "^4.0.0",
+    "mapbox-gl": "^3.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-modal": "^3.16.1",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "^5.0.1",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0",
+    "styled-components": "^6.1.8",
+    "universal-cookie": "^7.0.1",
+    "web-vitals": "^3.5.1",
+    "zustand": "^4.4.6"
+  }
+}
